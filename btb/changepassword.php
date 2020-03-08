@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bus Ticket Booking</title>
+<style >
+    
+</style>    
+
+    
+</head>
+<body>
+    <div> 
+                   <table>
+                      <tr>
+                        <td>
+                             
+                            
+                        </td>
+                          <td> <h1 >  Bus Ticket Booking </h1>
+        <br>
+       
+        </h1>
+</td>
+                      </tr>
+
+                  </table>
+                    
+            
+           
+        
+    </div>
+    <div>
+        <p>
+            
+<a href = "homepage.php"> Welcome   </a>&nbsp;
+<a href = "sellerinfo.php">Seller Info </a>&nbsp;
+<a href = "sellerbonus.php">Seller Bonus </a>&nbsp;
+<a href = "userinfo.php"> User Info </a>&nbsp;
+<a href = "bussinfo.php"> Buss Info </a>&nbsp;
+<a href = "profile.php"> Profile</a>&nbsp;
+<a href = "changepassword.php"> Change Password </a>&nbsp;
+<a href = "notice.php">Notice </a>&nbsp;
+<a href = "signout.php">Sign Out</a>&nbsp;
+   </div>
+       
+    <form>
+      <fieldset>  
+<legend > <h1>Change Password </h1></legend>
+      <div>
+        <input type="password" name="password" placeholder="Old Password"> <br> <br>
+
+        <input type="password" name="password" placeholder="New Password"> <br> <br>
+        <input type="password" name="password" placeholder="Re-type New Password"> <br> <br>
+
+          <input type="submit" name="submit" value="Submit">
+
+      
+
+     </div>
+        
+
+
+      </fieldset>
+    </form>
+  
+
+</body>
+</html>
